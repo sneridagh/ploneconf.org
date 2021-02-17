@@ -1,0 +1,2553 @@
+# Translation of plone.pot to German
+# Jan Ulrich Hasecke <jan.ulrich@hasecke.com>, 2003-2010.
+# Simon Eisenmann <simon@struktur.de>, 2003.
+# Hanno Schlichting <plone@hannosch.info>, 2003-2008.
+# Dominik Bittl <dominik@umount.org>, 2005.
+# Christian Ullrich <chris@chrullrich.de>, 2005.
+# Thomas Lotze <tl@gocept.com>, 2005-2008.
+# Sven Deichmann <deichmann@werkbank.com>, 2008-2010.
+# Harald Friessnegger <harald@webmeisterei.com>, 2011.
+# Andreas Jung <info@zopyx.com>, 2012
+msgid ""
+msgstr ""
+"Project-Id-Version: Plone\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-27T19:30:59.079Z\n"
+"PO-Revision-Date: 2016-10-22 16:41-0500\n"
+"Last-Translator: German <plone-i18n@lists.sf.net>\n"
+"Language: de\n"
+"Language-Team: German <plone-i18n@lists.sf.net>\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Language-Code: de\n"
+"Language-Name: Deutsch\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"X-Is-Fallback-For: de-at de-li de-lu de-ch de-de\n"
+
+#: components/manage/Blocks/HTML/Edit
+msgid "<p>Add some HTML here</p>"
+msgstr "<p>HTML hier einfügen</p>"
+
+#: components/theme/Footer/Footer
+msgid "Accessibility"
+msgstr "Barrierefreiheit"
+
+#: components/theme/Register/Register
+msgid "Account Registration Completed"
+msgstr "Die Registrierung Ihres Zugangs wurde erfolgreich abgeschlossen."
+
+#: components/theme/PasswordReset/PasswordReset
+msgid "Account activation completed"
+msgstr "Passwort gesetzt."
+
+#: components/manage/Controlpanels/ModerateComments
+msgid "Action"
+msgstr "Aktion"
+
+#: components/manage/Actions/Actions
+#: components/manage/Contents/Contents
+#: components/manage/Controlpanels/ContentTypes
+#: components/manage/Controlpanels/UsersControlpanel
+msgid "Actions"
+msgstr "Aktionen"
+
+#: components/manage/Controlpanels/AddonsControlpanel
+msgid "Activate and deactivate"
+msgstr "Aktiviern und Deaktivieren"
+
+#: components/manage/Controlpanels/ContentTypes
+#: components/manage/Toolbar/Toolbar
+#: components/manage/Widgets/SchemaWidget
+#: helpers/MessageLabels/MessageLabels
+msgid "Add"
+msgstr "Hinzufügen"
+
+#: components/manage/Controlpanels/AddonsControlpanel
+msgid "Add Addons"
+msgstr "Add-on hinzufügen"
+
+#: components/manage/Toolbar/Types
+msgid "Add Content"
+msgstr "Inhalte hinzufügen"
+
+#: components/manage/Toolbar/Types
+msgid "Add Translation…"
+msgstr "Übersetzung hinzufügen…"
+
+#: helpers/MessageLabels/MessageLabels
+msgid "Add User"
+msgstr "Benutzer hinzufügen"
+
+#: components/manage/Blocks/Description/Edit
+msgid "Add a description…"
+msgstr "Beschreibung hinzufügen…"
+
+#: helpers/MessageLabels/MessageLabels
+msgid "Add block…"
+msgstr "Block hinzufügen"
+
+#: components/manage/Blocks/Listing/QuerystringWidget
+msgid "Add criteria"
+msgstr "Kriterien hinzufügen"
+
+#: components/manage/Widgets/RecurrenceWidget/RecurrenceWidget
+msgid "Add date"
+msgstr "Datum hinzufügen"
+
+#: components/manage/Widgets/SchemaWidget
+msgid "Add field"
+msgstr "Feld hinzufügen"
+
+#: components/manage/Widgets/SchemaWidget
+msgid "Add fieldset"
+msgstr "Fieldset hinzufügen"
+
+#: helpers/MessageLabels/MessageLabels
+msgid "Add group"
+msgstr "Gruppe hinzufügen"
+
+#: components/manage/Controlpanels/ContentTypes
+msgid "Add new content type"
+msgstr "Neuen Inhaltstypen hinzufügen"
+
+#: helpers/MessageLabels/MessageLabels
+msgid "Add new group"
+msgstr "Neue Gruppe hinzufügen"
+
+#: helpers/MessageLabels/MessageLabels
+msgid "Add new user"
+msgstr "Neuen Benutzer hinzufügen"
+
+#: helpers/MessageLabels/MessageLabels
+msgid "Add to Groups"
+msgstr "Zu Gruppe hinzufügen"
+
+#: components/manage/Add/Add
+msgid "Add {type}"
+msgstr "{type} hinzufügen"
+
+#: components/manage/Controlpanels/AddonsControlpanel
+msgid "Add-ons Settings"
+msgstr "Einstellungen Add-ons"
+
+#: components/manage/Widgets/RecurrenceWidget/Occurences
+msgid "Additional date"
+msgstr "Zusätzliches Datum"
+
+#: components/manage/Blocks/Image/ImageSidebar
+#: components/manage/Blocks/LeadImage/LeadImageSidebar
+#: components/manage/Blocks/Maps/MapsSidebar
+#: components/manage/Blocks/Video/VideoSidebar
+msgid "Alignment"
+msgstr "Ausrichtung"
+
+#: components/manage/Contents/Contents
+msgid "All"
+msgstr "Alle"
+
+#: components/theme/Search/Search
+msgid "Alphabetically"
+msgstr "alphabetisch"
+
+#: components/manage/Blocks/Image/ImageSidebar
+#: components/manage/Blocks/LeadImage/LeadImageSidebar
+msgid "Alt text"
+msgstr "Alternative Text"
+
+#: components/manage/Widgets/SchemaWidget
+msgid "Are you sure you want to delete this field?"
+msgstr "Sind Sie sicher, dass Sie dieses Feld löschen möchten?"
+
+#: components/manage/Widgets/SchemaWidget
+msgid "Are you sure you want to delete this fieldset including all fields?"
+msgstr "Sind Sie sicher, dass Sie dieses Fieldset löschen möchten?"
+
+#: components/manage/Contents/Contents
+msgid "Ascending"
+msgstr "Aufsteigend"
+
+#: components/manage/Controlpanels/AddonsControlpanel
+msgid "Available"
+msgstr "Verfügbar"
+
+#: components/manage/Contents/Contents
+#: components/manage/Controlpanels/AddonsControlpanel
+#: components/manage/Controlpanels/ContentType
+#: components/manage/Controlpanels/ContentTypeLayout
+#: components/manage/Controlpanels/ContentTypes
+#: components/manage/Controlpanels/Controlpanel
+#: components/manage/Controlpanels/Controlpanels
+#: components/manage/Controlpanels/DatabaseInformation
+#: components/manage/Controlpanels/ModerateComments
+#: components/manage/Diff/Diff
+#: components/manage/History/History
+#: components/manage/Multilingual/ManageTranslations
+#: components/manage/Preferences/ChangePassword
+#: components/manage/Preferences/PersonalInformation
+#: components/manage/Preferences/PersonalPreferences
+#: components/manage/Sharing/Sharing
+#: components/manage/Toolbar/Toolbar
+#: components/theme/ContactForm/ContactForm
+#: helpers/MessageLabels/MessageLabels
+msgid "Back"
+msgstr "Zurück"
+
+#: components/manage/Diff/Diff
+msgid "Base"
+msgstr "Basis"
+
+#: components/manage/Sidebar/Sidebar
+msgid "Block"
+msgstr "Block"
+
+#: components/manage/Blocks/Listing/ListingSidebar
+msgid "Block style"
+msgstr "Block Darstellung"
+
+#: components/theme/Login/Login
+msgid "Both email address and password are case sensitive, check that caps lock is not enabled."
+msgstr "Sowohl E-Mail Adresse als auch Passwort unterscheiden zwischen Groß- und Kleinschreibung, stellen Sie sicher dass die Hochstelltaste nicht aktiviert ist."
+
+#: components/theme/Breadcrumbs/Breadcrumbs
+msgid "Breadcrumbs"
+msgstr "Brotkrumen"
+
+#: components/manage/Contents/ContentsUploadModal
+msgid "Browse"
+msgstr "Durchsuchen"
+
+#: components/manage/Blocks/Image/Edit
+msgid "Browse the site, drop an image, or type an URL"
+msgstr "Seite durchsuchen, Bild ablegen oder URL eingeben"
+
+#: components/manage/Sharing/Sharing
+msgid "By default, permissions from the container of this item are inherited. If you disable this, only the explicitly defined sharing permissions will be valid. In the overview, the symbol {inherited} indicates an inherited value. Similarly, the symbol {global} indicates a global role, which is managed by the site administrator."
+msgstr "Standardmäßig werden die Berechtigungen von einem Ordner auf die in ihm befindlichen Artikel vererbt. Wenn Sie dies deaktivieren, sind nur die explizit definierten Zugriffsberechtigungen gültig. In der Übersicht zeigt das Symbol ${image_confirm_icon} einen ererbten Wert an. Das Symbol ${image_link_icon} zeigt eine globale Funktion an, die vom Administrator verwaltet wird."
+
+#: components/manage/Controlpanels/DatabaseInformation
+msgid "Cache Name"
+msgstr "Cache Name"
+
+#: components/manage/Controlpanels/ContentTypeLayout
+msgid "Can not edit Layout for <strong>{type}</strong> content-type as it doesn't have support for <strong>Volto Blocks</strong> enabled"
+msgstr "Layout für <strong>{type}</strong> kann nicht verändert werden, da das <strong>Volto Blocks</strong>-Behavior nicht für diesen Inhaltstyp aktiviert ist"
+
+#: components/manage/Controlpanels/ContentTypeLayout
+msgid "Can not edit Layout for <strong>{type}</strong> content-type as the <strong>Blocks behavior</strong> is enabled and <strong>read-only</strong>"
+msgstr "Layout für <strong>{type}</strong> kann nicht verändert werden, da das <strong>Volto Blocks</strong>-Behavior auf nur-lesend gesetzt ist"
+
+#: components/manage/Add/Add
+#: components/manage/Contents/ContentsUploadModal
+#: components/manage/Controlpanels/ContentType
+#: components/manage/Controlpanels/ContentTypeLayout
+#: components/manage/Controlpanels/ContentTypeSchema
+#: components/manage/Controlpanels/Controlpanel
+#: components/manage/Delete/Delete
+#: components/manage/Edit/Edit
+#: components/manage/Form/ModalForm
+#: components/manage/Sharing/Sharing
+#: components/theme/Login/Login
+#: helpers/MessageLabels/MessageLabels
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: components/manage/Blocks/Table/Edit
+msgid "Cell"
+msgstr "Zelle"
+
+#: components/manage/Blocks/Image/ImageSizeWidget
+#: components/manage/Blocks/Maps/Edit
+#: components/manage/Sidebar/AlignBlock
+msgid "Center"
+msgstr "Mittig"
+
+#: components/manage/History/History
+msgid "Change Note"
+msgstr "Änderungsnotiz"
+
+#: components/manage/Preferences/ChangePassword
+msgid "Change Password"
+msgstr "Passwort ändern"
+
+#: components/manage/Contents/ContentsWorkflowModal
+msgid "Change State"
+msgstr "Arbeitsablauf-Status ändern"
+
+#: components/manage/Contents/ContentsWorkflowModal
+msgid "Change workflow state recursively"
+msgstr "Arbeitlauf-Status für alle Unterobjekte ebenfalls ändern"
+
+#: components/manage/Preferences/ChangePassword
+#: components/manage/Preferences/PersonalInformation
+#: components/manage/Preferences/PersonalPreferences
+msgid "Changes saved"
+msgstr "Änderungen gespeichert"
+
+#: components/manage/Controlpanels/ContentType
+#: components/manage/Controlpanels/ContentTypeLayout
+#: components/manage/Controlpanels/ContentTypeSchema
+#: components/manage/Controlpanels/Controlpanel
+msgid "Changes saved."
+msgstr "Änderungen gespeichert."
+
+#: components/manage/Widgets/SchemaWidget
+msgid "Checkbox"
+msgstr "Checkbox"
+
+#: components/manage/Widgets/SelectWidget
+msgid "Choices"
+msgstr "Auswahlfeld"
+
+#: components/manage/Sidebar/ObjectBrowserBody
+msgid "Choose Image"
+msgstr "Bild auswählen"
+
+#: components/manage/Sidebar/ObjectBrowserBody
+msgid "Choose Target"
+msgstr "Ziel auswählen"
+
+#: components/manage/Widgets/FileWidget
+msgid "Choose a file"
+msgstr ""
+
+#: components/manage/Blocks/HTML/Edit
+msgid "Clear"
+msgstr "Löschen"
+
+#: components/theme/View/ImageView
+msgid "Click to download full sized image"
+msgstr "Klicken um das Bild in der vollen Größe runterzuladen"
+
+#: components/manage/Widgets/SelectWidget
+msgid "Close"
+msgstr "Schließen"
+
+#: components/theme/Navigation/Navigation
+msgid "Close menu"
+msgstr "Menu schließen"
+
+#: components/manage/Blocks/HTML/Edit
+msgid "Code"
+msgstr "Code"
+
+#: components/manage/Toolbar/Toolbar
+msgid "Collection"
+msgstr "Kollektion"
+
+#: components/manage/Controlpanels/ModerateComments
+#: components/theme/Comments/CommentEditModal
+#: components/theme/Comments/Comments
+msgid "Comment"
+msgstr "Kommentar"
+
+#: components/manage/Controlpanels/ModerateComments
+msgid "Commenter"
+msgstr "Kommentarautor"
+
+#: components/manage/Diff/Diff
+msgid "Compare"
+msgstr "Vergleichen"
+
+#: components/manage/Preferences/ChangePassword
+#: components/theme/PasswordReset/PasswordReset
+msgid "Confirm password"
+msgstr "Passwort bestätigen"
+
+#: components/theme/ConnectionRefused/ConnectionRefused
+msgid "Connection refused"
+msgstr "Verbindung abgelehnt"
+
+#: components/theme/Footer/Footer
+msgid "Contact"
+msgstr "Kontakt"
+
+#: components/theme/ContactForm/ContactForm
+msgid "Contact form"
+msgstr "Kontaktformular"
+
+#: components/manage/Blocks/Listing/Edit
+msgid "Contained items"
+msgstr "Enthaltene Elemente"
+
+#: components/manage/Blocks/Listing/ListingSidebar
+msgid "Content"
+msgstr "Inhalt"
+
+#: components/manage/Controlpanels/ContentTypes
+msgid "Content type created"
+msgstr "Inhaltstyp erstellt"
+
+#: components/manage/Controlpanels/ContentTypes
+msgid "Content type deleted"
+msgstr "Inhaltstyp gelöscht"
+
+#: components/manage/Contents/Contents
+#: components/manage/Toolbar/Toolbar
+msgid "Contents"
+msgstr "Inhalte"
+
+#: components/manage/Actions/Actions
+#: components/manage/Contents/Contents
+#: components/manage/Contents/ContentsItem
+msgid "Copy"
+msgstr "Kopieren"
+
+#: helpers/MessageLabels/MessageLabels
+msgid "Copy blocks"
+msgstr ""
+
+#: components/theme/Footer/Footer
+msgid "Copyright"
+msgstr "Urheberrecht"
+
+#: components/manage/Contents/ContentsPropertiesModal
+msgid "Copyright statement or other rights information on this item."
+msgstr "Informationen über die Urheber- und Nutzungsrechte an diesem Artikel."
+
+#: components/manage/Contents/Contents
+msgid "Created on"
+msgstr "Erstellt am"
+
+#: components/manage/Contents/Contents
+msgid "Creator"
+msgstr "Ersteller"
+
+#: components/manage/Contents/ContentsPropertiesModal
+msgid "Creators"
+msgstr "Ersteller"
+
+#: components/manage/Blocks/Listing/QuerystringWidget
+msgid "Criteria"
+msgstr "Kriterium"
+
+#: components/manage/Preferences/ChangePassword
+msgid "Current password"
+msgstr "Aktuelles Passwort"
+
+#: components/manage/Actions/Actions
+#: components/manage/Contents/Contents
+#: components/manage/Contents/ContentsItem
+msgid "Cut"
+msgstr "Ausschneiden"
+
+#: helpers/MessageLabels/MessageLabels
+msgid "Cut blocks"
+msgstr ""
+
+#: components/manage/Widgets/RecurrenceWidget/RecurrenceWidget
+msgid "Daily"
+msgstr "Täglich"
+
+#: components/manage/Controlpanels/DatabaseInformation
+msgid "Database Information"
+msgstr "Datenbankinformationen"
+
+#: components/manage/Controlpanels/DatabaseInformation
+msgid "Database Location"
+msgstr "Speicheort Datenbank"
+
+#: components/manage/Controlpanels/DatabaseInformation
+msgid "Database Size"
+msgstr "Größe Datenbank"
+
+#: components/manage/Controlpanels/DatabaseInformation
+msgid "Database main"
+msgstr "Datenbank"
+
+#: components/manage/Controlpanels/ModerateComments
+#: components/manage/Widgets/DatetimeWidget
+msgid "Date"
+msgstr "Datum"
+
+#: components/theme/Search/Search
+msgid "Date (newest first)"
+msgstr "Datum (neustes zuerst)"
+
+#: components/manage/Contents/ContentsPropertiesModal
+#: components/manage/Contents/ContentsRenameModal
+#: components/manage/Contents/ContentsTagsModal
+#: components/manage/Contents/ContentsWorkflowModal
+#: components/manage/Preferences/ChangePassword
+#: components/manage/Preferences/PersonalInformation
+#: components/manage/Preferences/PersonalPreferences
+#: components/manage/Widgets/QuerystringWidget
+#: components/manage/Widgets/SchemaWidget
+#: components/manage/Widgets/SelectWidget
+#: components/manage/Widgets/WysiwygWidget
+#: components/theme/Comments/CommentEditModal
+#: components/theme/Comments/Comments
+#: components/theme/ContactForm/ContactForm
+#: components/theme/PasswordReset/PasswordReset
+#: components/theme/PasswordReset/RequestPasswordReset
+#: components/theme/Register/Register
+msgid "Default"
+msgstr "Standard"
+
+#: components/manage/Contents/Contents
+#: components/manage/Contents/ContentsItem
+#: components/manage/Controlpanels/ContentTypesActions
+#: components/manage/Controlpanels/ModerateComments
+#: components/manage/Controlpanels/UsersControlpanelGroups
+#: components/manage/Controlpanels/UsersControlpanelUser
+#: components/manage/Delete/Delete
+#: components/manage/Widgets/FormFieldWrapper
+#: components/manage/Widgets/ObjectBrowserWidget
+#: components/manage/Widgets/WysiwygWidget
+#: components/theme/Comments/Comments
+msgid "Delete"
+msgstr "Löschen"
+
+#: helpers/MessageLabels/MessageLabels
+msgid "Delete Group"
+msgstr "Gruppe löschen"
+
+#: components/manage/Controlpanels/ContentTypes
+msgid "Delete Type"
+msgstr "Inhaltstype löschen"
+
+#: helpers/MessageLabels/MessageLabels
+msgid "Delete User"
+msgstr "Benutzer löschen"
+
+#: helpers/MessageLabels/MessageLabels
+msgid "Delete blocks"
+msgstr ""
+
+#: components/manage/Blocks/Table/Edit
+msgid "Delete col"
+msgstr "Spalte löschen"
+
+#: components/manage/Blocks/Table/Edit
+msgid "Delete row"
+msgstr "Zeile löschen"
+
+#: components/manage/Blocks/Listing/ListingData
+msgid "Depth"
+msgstr ""
+
+#: components/manage/Contents/Contents
+msgid "Descending"
+msgstr "Absteigend"
+
+#: components/manage/Blocks/HeroImageLeft/Edit
+#: components/manage/Controlpanels/ContentTypes
+#: components/manage/Widgets/QuerystringWidget
+#: components/manage/Widgets/SchemaWidget
+#: components/manage/Widgets/SelectWidget
+#: components/manage/Widgets/WysiwygWidget
+#: components/theme/View/TabularView
+#: helpers/MessageLabels/MessageLabels
+msgid "Description"
+msgstr "Beschreibung"
+
+#: components/manage/Diff/Diff
+msgid "Diff"
+msgstr "Unterschied"
+
+#: components/manage/Diff/Diff
+msgid "Difference between revision {one} and {two} of {title}"
+msgstr "Unterschied zwischen Version {one} and {two} von {title}"
+
+#: components/theme/Footer/Footer
+msgid "Distributed under the {license}."
+msgstr "Lizensiert unter der {license}."
+
+#: components/manage/Blocks/Table/Edit
+msgid "Divide each row into separate cells"
+msgstr "Zeile in zwei separate Zellen aufteilen"
+
+#: components/manage/Contents/Contents
+msgid "Do you really want to delete the following items?"
+msgstr "Möchten Sie den Artikel wirklich löschen?"
+
+#: components/manage/Controlpanels/UsersControlpanel
+msgid "Do you really want to delete the group {groupname}?"
+msgstr "Möchten Sie die Gruppe {groupname} wirklich löschen?"
+
+#: components/manage/Controlpanels/ContentTypes
+msgid "Do you really want to delete the type {typename}?"
+msgstr "Möchten Sie den Inhaltstyp {typename} wirklich löschen?"
+
+#: components/manage/Controlpanels/UsersControlpanel
+msgid "Do you really want to delete the user {username}?"
+msgstr "Möchten Sie den Nutzer {username} wirklich löschen?"
+
+#: components/manage/Delete/Delete
+msgid "Do you really want to delete this item?"
+msgstr "Möchten Sie den Artikel wirklich löschen?"
+
+#: components/manage/Sidebar/Sidebar
+msgid "Document"
+msgstr "Seite"
+
+#: components/manage/Contents/ContentsUploadModal
+msgid "Drag and drop files from your computer onto this area or click the “Browse” button."
+msgstr "Ziehen Sie Dateien von Ihrem Computer auf diesen Bereich oder drücken Sie den “Durchsuchen”-Knopf."
+
+#: components/manage/Widgets/FileWidget
+msgid "Drop file here to replace the existing file"
+msgstr ""
+
+#: components/manage/Widgets/FileWidget
+msgid "Drop file here to upload a new file"
+msgstr ""
+
+#: components/manage/Widgets/FileWidget
+msgid "Drop files here ..."
+msgstr "Datei hier ablegen um die bestehende Datei zu ersetzen"
+
+#: components/manage/Preferences/PersonalInformation
+#: components/theme/Register/Register
+msgid "E-mail"
+msgstr "E-Mail"
+
+#: components/theme/PasswordReset/PasswordReset
+msgid "E-mail addresses do not match."
+msgstr "E-Mail-Adressen stimmen nicht überein."
+
+#: components/manage/Contents/ContentsItem
+#: components/manage/Controlpanels/ContentTypesActions
+#: components/manage/Controlpanels/ModerateComments
+#: components/manage/Toolbar/Toolbar
+#: components/manage/Widgets/FormFieldWrapper
+#: components/manage/Widgets/ObjectBrowserWidget
+#: components/theme/Comments/Comments
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: components/theme/Comments/CommentEditModal
+msgid "Edit comment"
+msgstr "Kommentar bearbeiten"
+
+#: components/manage/Widgets/SchemaWidget
+msgid "Edit field"
+msgstr "Feld bearbeiten"
+
+#: components/manage/Widgets/SchemaWidget
+msgid "Edit fieldset"
+msgstr "Fieldset bearbeiten"
+
+#: components/manage/Widgets/RecurrenceWidget/RecurrenceWidget
+msgid "Edit recurrence"
+msgstr "Wiederkehrende Einstellungen bearbeiten"
+
+#: components/manage/Form/InlineForm
+msgid "Edit values"
+msgstr "Werte bearbeiten"
+
+#: components/manage/Edit/Edit
+msgid "Edit {title}"
+msgstr "{title} bearbeiten"
+
+#: helpers/MessageLabels/MessageLabels
+msgid "Email"
+msgstr "E-Mail"
+
+#: components/theme/ContactForm/ContactForm
+msgid "Email sent"
+msgstr "E-Mail versendet"
+
+#: components/manage/Blocks/Maps/Edit
+msgid "Embed code error, please follow the instructions and try again."
+msgstr "Fehler beim Einbinden des Google Maps Codes. Bitte lesen Sie die Anweisungen und stellen Sie sicher dass Sie den korrekten Code verwenden."
+
+#: components/manage/Blocks/Maps/View
+msgid "Embeded Google Maps"
+msgstr "Eingebettete Google Maps Karte"
+
+#: components/manage/Controlpanels/ContentTypeLayout
+msgid "Enable editable Blocks"
+msgstr "Aktiviere bearbeitbare Blocks"
+
+#: components/manage/Contents/Contents
+msgid "End Date"
+msgstr "Enddatum"
+
+#: components/manage/AnchorPlugin/components/LinkButton/AddLinkForm
+msgid "Enter URL or select an item"
+msgstr "URL eingeben oder Objekt auswählen"
+
+#: helpers/MessageLabels/MessageLabels
+msgid "Enter a username above to search or click 'Show All'"
+msgstr "Benutzername oben eingeben oder auf 'Alle anzeigen' klicken"
+
+#: components/theme/Register/Register
+msgid "Enter an email address. This will be your login name. We respect your privacy, and will not give the address away to any third parties or expose it anywhere."
+msgstr "Tragen Sie Ihre E-Mail-Adresse ein, mit der Sie sich künftig anmelden müssen. Wir respektieren den Datenschutz und werden die E-Mail-Adresse nicht an Dritte weitergeben und auch nirgends anzeigen."
+
+#: components/manage/Preferences/PersonalInformation
+#: components/theme/PasswordReset/PasswordReset
+#: components/theme/Register/Register
+msgid "Enter full name, e.g. John Smith."
+msgstr "Tragen Sie bitte Ihren vollen Namen ein."
+
+#: components/manage/Blocks/Maps/Edit
+msgid "Enter map Embed Code"
+msgstr "Karten-Einbettungscode eingeben"
+
+#: components/manage/Preferences/ChangePassword
+msgid "Enter your current password."
+msgstr "Geben Sie Ihr aktuelles Passwort ein."
+
+#: components/theme/PasswordReset/PasswordReset
+msgid "Enter your email address for verification."
+msgstr "Tragen Sie zur Überprüfung Ihre E-Mail-Adresse ein."
+
+#: components/manage/Preferences/ChangePassword
+#: components/theme/PasswordReset/PasswordReset
+msgid "Enter your new password. Minimum 5 characters."
+msgstr "Geben Sie ihr neues Passwort ein. Mindestens 5 Zeichen."
+
+#: components/manage/Add/Add
+#: components/manage/Controlpanels/ContentTypeSchema
+#: components/manage/Edit/Edit
+#: components/manage/Form/InlineForm
+#: components/manage/Widgets/SchemaWidget
+#: components/theme/ContactForm/ContactForm
+#: components/theme/Login/Login
+#: helpers/MessageLabels/MessageLabels
+msgid "Error"
+msgstr "Fehler"
+
+#: components/manage/Contents/ContentsPropertiesModal
+msgid "Exclude from navigation"
+msgstr "Von der Navigation ausschließen"
+
+#: components/manage/Widgets/RecurrenceWidget/Occurences
+msgid "Exclude this occurence"
+msgstr "Dieses Datum ausschließen"
+
+#: components/manage/Contents/Contents
+msgid "Excluded from navigation"
+msgstr "Von Navigation ausgeschlossen"
+
+#: components/manage/Sidebar/Sidebar
+msgid "Expand sidebar"
+msgstr "Sidebar vergrößern"
+
+#: components/manage/Contents/ContentsPropertiesModal
+msgid "Expiration Date"
+msgstr "Ablaufdatum"
+
+#: components/manage/Contents/Contents
+msgid "Expiration date"
+msgstr "Ablaufdatum"
+
+#: components/manage/Contents/ContentsItem
+msgid "Expired"
+msgstr "Abgelaufen"
+
+#: components/manage/Blocks/Image/ImageSidebar
+#: components/manage/Blocks/LeadImage/LeadImageSidebar
+msgid "External URL"
+msgstr "Externe URL"
+
+#: components/manage/Toolbar/Toolbar
+msgid "File"
+msgstr "Datei"
+
+#: components/manage/Contents/ContentsUploadModal
+msgid "File size"
+msgstr "Dateigröße"
+
+#: components/manage/Contents/ContentsUploadModal
+msgid "Filename"
+msgstr "Dateiname"
+
+#: components/manage/Contents/Contents
+msgid "Filter…"
+msgstr "Filter…"
+
+#: components/manage/Widgets/RecurrenceWidget/WeekdayOfTheMonthIndexField
+msgid "First"
+msgstr "Erster Tag des Monats"
+
+#: components/manage/Blocks/Table/Edit
+msgid "Fixed width table cells"
+msgstr "Tabellen-Zellen mit fester Breite"
+
+#: components/manage/Contents/Contents
+msgid "Folder"
+msgstr "Ordner"
+
+#: components/theme/Forbidden/Forbidden
+msgid "Forbidden"
+msgstr "Verboten"
+
+#: components/manage/Widgets/RecurrenceWidget/WeekdayOfTheMonthIndexField
+msgid "Fourth"
+msgstr "Vierter"
+
+#: components/theme/ContactForm/ContactForm
+msgid "From"
+msgstr "E-Mail"
+
+#: components/manage/Blocks/Maps/Edit
+#: components/manage/Sidebar/AlignBlock
+msgid "Full"
+msgstr "Volle Breite"
+
+#: components/manage/Preferences/PersonalInformation
+#: components/theme/PasswordReset/PasswordReset
+#: components/theme/Register/Register
+msgid "Full Name"
+msgstr "Vor- und Nachname"
+
+#: helpers/MessageLabels/MessageLabels
+msgid "Fullname"
+msgstr "Name"
+
+#: components/theme/Footer/Footer
+msgid "GNU GPL license"
+msgstr "GNU-GPL-Lizenz"
+
+#: components/manage/Sharing/Sharing
+msgid "Global role"
+msgstr "Globale Rolle"
+
+#: components/manage/Blocks/Maps/Edit
+msgid "Google Maps Embedded Block"
+msgstr "Google Maps Block"
+
+#: components/manage/Sharing/Sharing
+msgid "Group"
+msgstr "Gruppe"
+
+#: helpers/MessageLabels/MessageLabels
+msgid "Group created"
+msgstr "Gruppe erstellt"
+
+#: components/manage/Controlpanels/UsersControlpanel
+#: helpers/MessageLabels/MessageLabels
+msgid "Groupname"
+msgstr "Gruppenname"
+
+#: components/manage/Controlpanels/UsersControlpanel
+msgid "Groups"
+msgstr "Gruppen"
+
+#: components/manage/Blocks/Table/Edit
+msgid "Header cell"
+msgstr "Kopfzeile"
+
+#: components/manage/History/History
+#: components/manage/Toolbar/More
+msgid "History"
+msgstr "Historie"
+
+#: components/manage/History/History
+msgid "History of {title}"
+msgstr "Historie von {title}"
+
+#: components/manage/Contents/Contents
+#: components/manage/Contents/ContentsBreadcrumbs
+#: components/theme/Breadcrumbs/Breadcrumbs
+msgid "Home"
+msgstr "Startseite"
+
+#: components/manage/Preferences/PersonalInformation
+msgid "Home page"
+msgstr "Homepage"
+
+#: components/manage/Contents/Contents
+msgid "ID"
+msgstr "ID"
+
+#: components/manage/Contents/ContentsPropertiesModal
+msgid "If selected, this item will not appear in the navigation tree"
+msgstr "Bestimmt, ob der Artikel nicht in der Navigation auftauchen soll."
+
+#: components/manage/Contents/ContentsPropertiesModal
+msgid "If this date is in the future, the content will not show up in listings and searches until this date."
+msgstr "Falls das Datum in der Zukunft liegt wird der Inhalt in Auflistungen und bei der Suche nicht auftauchen, bis zu dem Datum."
+
+#: components/theme/NotFound/NotFound
+#: components/theme/Unauthorized/Unauthorized
+msgid "If you are certain you have the correct web address but are encountering an error, please contact the {site_admin}."
+msgstr "Wenn Sie sicher sind, dass Sie die richtige Adresse eingegeben haben, kontaktieren Sie bitte den {site_admin}."
+
+#: components/theme/Login/Login
+msgid "If you have forgotten your password, {forgotpassword}"
+msgstr "Klicken Sie bitte hier, falls Sie Ihr Passwort vergessen haben: {forgotpassword}"
+
+#: components/theme/Login/Login
+msgid "If you you do not have an account here, head over to the {registrationform}."
+msgstr "Falls Sie noch keinen Zugang haben wechseln Sie bitte zum {registrationform}."
+
+#: components/manage/Blocks/Image/ImageSidebar
+#: components/manage/Blocks/LeadImage/LeadImageSidebar
+msgid "Image"
+msgstr "Bild"
+
+#: components/manage/Widgets/RecurrenceWidget/Occurences
+msgid "Include this occurence"
+msgstr "Datum einbeziehen"
+
+#: components/manage/Controlpanels/ContentType
+#: components/manage/Controlpanels/ContentTypeLayout
+#: components/manage/Controlpanels/ContentTypeSchema
+#: components/manage/Controlpanels/Controlpanel
+msgid "Info"
+msgstr "Information"
+
+#: components/manage/Sharing/Sharing
+msgid "Inherit permissions from higher levels"
+msgstr "Berechtigungen von übergeordneten Ordnern übernehmen"
+
+#: components/manage/Sharing/Sharing
+msgid "Inherited value"
+msgstr "Geerbter Wert"
+
+#: components/manage/Blocks/Table/Edit
+msgid "Insert col after"
+msgstr "Spalte danach einfügen"
+
+#: components/manage/Blocks/Table/Edit
+msgid "Insert col before"
+msgstr "Spalte davor einfügen"
+
+#: components/manage/Blocks/Table/Edit
+msgid "Insert row after"
+msgstr "Zeile danach einfügen"
+
+#: components/manage/Blocks/Table/Edit
+msgid "Insert row before"
+msgstr "Zeile davor einfügen"
+
+#: components/manage/Controlpanels/AddonsControlpanel
+msgid "Install"
+msgstr "Installieren"
+
+#: components/manage/Controlpanels/AddonsControlpanel
+msgid "Installed"
+msgstr "Installiert"
+
+#: components/manage/Controlpanels/AddonsControlpanel
+msgid "Installed version"
+msgstr "Installierte Version"
+
+#: components/manage/Widgets/RecurrenceWidget/RecurrenceWidget
+msgid "Interval Daily"
+msgstr "Täglich"
+
+#: components/manage/Widgets/RecurrenceWidget/RecurrenceWidget
+msgid "Interval Monthly"
+msgstr "Monatlich"
+
+#: components/manage/Widgets/RecurrenceWidget/RecurrenceWidget
+msgid "Interval Weekly"
+msgstr "Wöchentlich"
+
+#: components/manage/Widgets/RecurrenceWidget/RecurrenceWidget
+msgid "Interval Yearly"
+msgstr "Jährliches Intervall"
+
+#: components/manage/Blocks/Listing/ListingData
+msgid "Item batch size"
+msgstr "Batch-Anzahl"
+
+#: components/manage/Contents/Contents
+msgid "Item succesfully moved."
+msgstr "Objekt wurde erfolgreich verschoben."
+
+#: components/manage/Contents/Contents
+msgid "Item(s) copied."
+msgstr "Objekt(e) kopiert."
+
+#: components/manage/Contents/Contents
+msgid "Item(s) cut."
+msgstr "Objekt(e) ausgeschnitten."
+
+#: components/manage/Contents/Contents
+msgid "Item(s) has been updated."
+msgstr "Objekt(e) wurde(n) aktualisiert"
+
+#: components/manage/Actions/Actions
+#: components/manage/Contents/Contents
+msgid "Item(s) pasted."
+msgstr "Artikel eingefügt."
+
+#: components/manage/Controlpanels/ContentTypes
+msgid "Items"
+msgstr "Elemente"
+
+#: components/manage/Form/ModalForm
+#: helpers/MessageLabels/MessageLabels
+msgid "Items must be unique."
+msgstr "Auswahl muss eindeutig sein."
+
+#: components/manage/Preferences/PersonalPreferences
+msgid "Language"
+msgstr "Sprache"
+
+#: components/manage/Widgets/RecurrenceWidget/WeekdayOfTheMonthIndexField
+msgid "Last"
+msgstr "Letzter"
+
+#: components/manage/Contents/Contents
+msgid "Last comment date"
+msgstr "Letztes Kommentierdatum"
+
+#: components/manage/Contents/ContentsUploadModal
+msgid "Last modified"
+msgstr "Letzte Änderung"
+
+#: components/manage/Controlpanels/AddonsControlpanel
+msgid "Latest version"
+msgstr "Letzte Version"
+
+#: components/manage/Controlpanels/ContentTypesActions
+msgid "Layout"
+msgstr "Layout"
+
+#: components/manage/Blocks/LeadImage/LeadImageSidebar
+msgid "Lead Image"
+msgstr "Leadbild"
+
+#: components/manage/Blocks/Image/ImageSizeWidget
+#: components/manage/Blocks/Maps/Edit
+#: components/manage/Sidebar/AlignBlock
+msgid "Left"
+msgstr "Links"
+
+#: components/manage/Toolbar/Toolbar
+msgid "Link"
+msgstr "Link"
+
+#: components/manage/Blocks/Listing/ListingSidebar
+msgid "Link more"
+msgstr "'Mehr' Link"
+
+#: components/manage/Blocks/Listing/ListingMore
+msgid "Link title"
+msgstr "Linktitel"
+
+#: components/manage/Blocks/Image/ImageSidebar
+#: components/manage/Blocks/LeadImage/LeadImageSidebar
+#: components/manage/Blocks/Listing/ListingMore
+#: components/manage/Blocks/Maps/MapsSidebar
+#: components/manage/Blocks/Video/VideoSidebar
+msgid "Link to"
+msgstr "Link auf"
+
+#: components/manage/Blocks/Listing/ListingSidebar
+msgid "Listing"
+msgstr "Auflistung"
+
+#: components/manage/Preferences/PersonalInformation
+msgid "Location"
+msgstr "Ort"
+
+#: components/theme/Login/Login
+msgid "Log In"
+msgstr "Anmelden"
+
+#: components/theme/Anontools/Anontools
+#: components/theme/Login/Login
+msgid "Log in"
+msgstr "Anmelden"
+
+#: components/theme/Login/Login
+msgid "Login"
+msgstr "Einloggen"
+
+#: components/theme/Login/Login
+msgid "Login Failed"
+msgstr "Login fehlgeschlagen"
+
+#: components/theme/Login/Login
+msgid "Login Name"
+msgstr "Benutzername"
+
+#: components/manage/Blocks/Table/Edit
+msgid "Make the table compact"
+msgstr "Tabelle kompakt darstellen"
+
+#: components/manage/Multilingual/ManageTranslations
+#: components/manage/Toolbar/More
+msgid "Manage Translations"
+msgstr "Übersetzungen verwalten"
+
+#: components/manage/Multilingual/ManageTranslations
+msgid "Manage translations for {title}"
+msgstr "Übersetzungen für {} verwalten"
+
+#: components/manage/Blocks/Maps/MapsSidebar
+msgid "Map"
+msgstr "Karte"
+
+#: components/manage/Blocks/Maps/MapsSidebar
+msgid "Maps URL"
+msgstr "Karten URL"
+
+#: helpers/MessageLabels/MessageLabels
+msgid "Maximum length is {len}."
+msgstr "Maximale Länge ist {len}."
+
+#: helpers/MessageLabels/MessageLabels
+msgid "Maximum value is {len}."
+msgstr "Maximaler Wert ist {len}"
+
+#: components/theme/ContactForm/ContactForm
+msgid "Message"
+msgstr "Nachricht"
+
+#: components/manage/Form/ModalForm
+#: helpers/MessageLabels/MessageLabels
+msgid "Minimum length is {len}."
+msgstr "Minimale Länge ist {len}"
+
+#: helpers/MessageLabels/MessageLabels
+msgid "Minimum value is {len}."
+msgstr "Minimaler Wert ist {len}"
+
+#: components/manage/Controlpanels/Controlpanels
+msgid "Moderate Comments"
+msgstr "Kommentare moderieren"
+
+#: components/manage/Controlpanels/ModerateComments
+msgid "Moderate comments"
+msgstr "Kommentare moderieren"
+
+#: components/manage/Widgets/RecurrenceWidget/RecurrenceWidget
+msgid "Monday and Friday"
+msgstr "Montag und Freitag"
+
+#: components/manage/Widgets/RecurrenceWidget/ByMonthDayField
+msgid "Month day"
+msgstr "Tag des Monats"
+
+#: components/manage/Widgets/RecurrenceWidget/RecurrenceWidget
+msgid "Monthly"
+msgstr "Monatlich"
+
+#: components/manage/Toolbar/Toolbar
+msgid "More"
+msgstr "Mehr"
+
+#: components/manage/Contents/ContentsItem
+msgid "Move to bottom of folder"
+msgstr "Ans Ende verschieben"
+
+#: components/manage/Contents/ContentsItem
+msgid "Move to top of folder"
+msgstr "An den Anfang verschieben"
+
+#: components/theme/PasswordReset/PasswordReset
+msgid "My email address is"
+msgstr "Meine E-Mail-Adresse lautet"
+
+#: components/manage/Sharing/Sharing
+#: components/theme/ContactForm/ContactForm
+msgid "Name"
+msgstr "Name"
+
+#: error
+msgid "Navigate back"
+msgstr "Zurück navigieren"
+
+#: components/theme/Navigation/ContextNavigation
+msgid "Navigation"
+msgstr ""
+
+#: components/manage/Preferences/ChangePassword
+#: components/theme/PasswordReset/PasswordReset
+msgid "New password"
+msgstr "Neues Passwort"
+
+#: components/manage/Toolbar/Toolbar
+msgid "News Item"
+msgstr "Nachricht"
+
+#: components/manage/Contents/ContentsItem
+#: components/manage/Controlpanels/ContentTypes
+msgid "No"
+msgstr "Nein"
+
+#: components/manage/Blocks/Image/ImageSidebar
+msgid "No image selected"
+msgstr "Kein Bild ausgewählt"
+
+#: components/manage/Blocks/LeadImage/LeadImageSidebar
+msgid "No image set in Lead Image content field"
+msgstr "Im Leadbild Feld wurde kein Bild gesetzt"
+
+#: components/manage/Blocks/LeadImage/LeadImageSidebar
+msgid "No image set in image content field"
+msgstr "Im Bild Feld wurde kein Bild gesetzt"
+
+#: components/manage/Blocks/Listing/ListingBody
+msgid "No items found in this container."
+msgstr "Keine Elemente gefunden"
+
+#: components/manage/Widgets/ObjectBrowserWidget
+msgid "No items selected"
+msgstr "Kein Element ausgewählt"
+
+#: components/manage/Blocks/Maps/MapsSidebar
+msgid "No map selected"
+msgstr "Keine Karte ausgewählt"
+
+#: components/manage/Widgets/RecurrenceWidget/Occurences
+msgid "No occurences set"
+msgstr "Kein Datum gesetzt"
+
+#: components/manage/Widgets/ArrayWidget
+#: components/manage/Widgets/SelectWidget
+#: components/manage/Widgets/TokenWidget
+msgid "No options"
+msgstr "Keine Option"
+
+#: components/theme/Search/Search
+msgid "No results found"
+msgstr "Keine Ergebnisse gefunden"
+
+#: components/manage/Blocks/Listing/ListingBody
+#: components/manage/Widgets/ReferenceWidget
+msgid "No results found."
+msgstr "Keine Ergebnisse gefunden."
+
+#: components/manage/Blocks/Listing/ListingData
+msgid "No selection"
+msgstr "Keine Auswahl"
+
+#: components/manage/Controlpanels/AddonsControlpanel
+msgid "No uninstall profile"
+msgstr "Kein Deinstallationsprofil"
+
+#: components/manage/Widgets/ArrayWidget
+#: components/manage/Widgets/ReferenceWidget
+#: components/manage/Widgets/SelectWidget
+msgid "No value"
+msgstr "Kein Wert"
+
+#: components/manage/Blocks/Video/VideoSidebar
+msgid "No video selected"
+msgstr "Kein Video ausgewählt"
+
+#: components/manage/Workflow/Workflow
+msgid "No workflow"
+msgstr "Kein Workflow"
+
+#: components/manage/Contents/Contents
+#: components/manage/Contents/ContentsItem
+msgid "None"
+msgstr "Nicht vorhanden"
+
+#: components/manage/Controlpanels/DatabaseInformation
+msgid "Number of active objects"
+msgstr "Anzahl aktive Objekte"
+
+#: components/manage/Contents/Contents
+msgid "Object Size"
+msgstr "Grösse"
+
+#: components/manage/Widgets/RecurrenceWidget/EndField
+msgid "Occurences"
+msgstr "Vorkommen"
+
+#: components/manage/Delete/Delete
+msgid "Ok"
+msgstr "OK"
+
+#: components/manage/Blocks/Image/ImageSidebar
+#: components/manage/Blocks/LeadImage/LeadImageSidebar
+#: components/manage/Blocks/Maps/MapsSidebar
+#: components/manage/Blocks/Video/VideoSidebar
+msgid "Open in a new tab"
+msgstr "In neuem Browser-Tab öffnen"
+
+#: components/theme/Navigation/Navigation
+msgid "Open menu"
+msgstr "Menü öffnen"
+
+#: components/manage/Blocks/Image/ImageSidebar
+#: components/manage/Blocks/LeadImage/LeadImageSidebar
+msgid "Origin"
+msgstr "Quelle"
+
+#: components/manage/Toolbar/Toolbar
+msgid "Page"
+msgstr "Seite"
+
+#: components/manage/Widgets/SchemaWidget
+msgid "Parent fieldset"
+msgstr "Eltern-Fieldset"
+
+#: components/theme/Login/Login
+#: helpers/MessageLabels/MessageLabels
+msgid "Password"
+msgstr "Passwort"
+
+#: components/theme/PasswordReset/PasswordReset
+#: components/theme/PasswordReset/RequestPasswordReset
+msgid "Password reset"
+msgstr "Passwort zurücksetzen"
+
+#: components/theme/PasswordReset/PasswordReset
+msgid "Passwords do not match."
+msgstr "Die Passwörter stimmen nicht überein."
+
+#: components/manage/Actions/Actions
+#: components/manage/Contents/Contents
+msgid "Paste"
+msgstr "Einfügen"
+
+#: helpers/MessageLabels/MessageLabels
+msgid "Paste blocks"
+msgstr ""
+
+#: components/manage/Preferences/PersonalInformation
+#: components/manage/Toolbar/Toolbar
+msgid "Personal Information"
+msgstr "Persönliche Informationen"
+
+#: components/manage/Preferences/PersonalPreferences
+#: components/manage/Toolbar/Toolbar
+msgid "Personal Preferences"
+msgstr "Meine Einstellungen"
+
+#: components/manage/Toolbar/More
+#: components/manage/Toolbar/Toolbar
+msgid "Personal tools"
+msgstr "Persönliche Einstellungen"
+
+#: components/manage/Contents/ContentsPropertiesModal
+msgid "Persons responsible for creating the content of this item. Please enter a list of user names, one per line. The principal creator should come first."
+msgstr "Eine Liste von Personen, die an der Erstellung dieses Artikels beteiligt waren. Bitte geben Sie einen Benutzernamen pro Zeile ein. Der Hauptverantwortliche sollte zuerst genannt werden."
+
+#: components/manage/Blocks/Video/Edit
+msgid "Please enter a valid URL by deleting the block and adding a new video block."
+msgstr "Geben Sie eine gültige URL "
+
+#: components/manage/Blocks/Maps/Edit
+msgid "Please enter the Embed Code provided by Google Maps -> Share -> Embed map. It should contain the <iframe> code on it."
+msgstr "Bitte geben sie den Einbettungscode von Google Maps ein. Klicken Sie auf 'Teilen' und dann 'Karte einbetten'. Der Code sollte ein '<iframe>'-Element enthalten."
+
+#: components/theme/PasswordReset/PasswordReset
+msgid "Please fill out the form below to set your password."
+msgstr "Bitte füllen Sie das unten stehende Formular aus, um Ihr Passwort neu zu setzen."
+
+#: components/theme/Footer/Footer
+msgid "Plone Foundation"
+msgstr "Plone Foundation"
+
+#: components/theme/Logo/Logo
+msgid "Plone Site"
+msgstr "Website"
+
+#: components/theme/Footer/Footer
+msgid "Plone{reg} Open Source CMS/WCM"
+msgstr "Plone{reg} Open Source Content Management System"
+
+#: components/manage/Preferences/PersonalInformation
+msgid "Portrait"
+msgstr "Portrait"
+
+#: components/manage/Widgets/SchemaWidget
+msgid "Possible values"
+msgstr "Mögliche Werte"
+
+#: components/theme/Footer/Footer
+msgid "Powered by Plone & Python"
+msgstr "Powered by Plone & Python"
+
+#: components/manage/Toolbar/PersonalTools
+msgid "Preferences"
+msgstr "Einstellungen"
+
+#: components/manage/Blocks/HTML/Edit
+msgid "Prettify your code"
+msgstr "Quellcode aufräumen"
+
+#: components/manage/Blocks/HTML/Edit
+#: components/manage/Contents/ContentsUploadModal
+msgid "Preview"
+msgstr "Vorschau"
+
+#: components/manage/Blocks/Video/VideoSidebar
+msgid "Preview Image URL"
+msgstr "URL Vorschaubild"
+
+#: components/manage/Toolbar/PersonalTools
+msgid "Profile"
+msgstr "Profil"
+
+#: components/manage/Contents/Contents
+#: components/manage/Contents/ContentsPropertiesModal
+msgid "Properties"
+msgstr "Eigenschaften"
+
+#: components/manage/Contents/Contents
+msgid "Publication date"
+msgstr "Freigabedatum"
+
+#: components/manage/Contents/ContentsPropertiesModal
+msgid "Publishing Date"
+msgstr "Freigabedatum"
+
+#: components/manage/Preferences/ChangePassword
+#: components/theme/PasswordReset/PasswordReset
+msgid "Re-enter the password. Make sure the passwords are identical."
+msgstr "Geben Sie das gleiche Passwort erneut ein."
+
+#: components/theme/Search/Search
+#: components/theme/View/SummaryView
+msgid "Read More…"
+msgstr "Mehr…"
+
+#: components/manage/Contents/Contents
+msgid "Rearrange items by…"
+msgstr "Elemente sortieren nach…"
+
+#: components/manage/Widgets/RecurrenceWidget/EndField
+msgid "Recurrence ends"
+msgstr "Ende des wiederkehrenden Vorkommens"
+
+#: components/manage/Widgets/RecurrenceWidget/EndField
+msgid "Recurrence ends after"
+msgstr "Wiederkehrendes Vorkommen endet nach"
+
+#: components/manage/Widgets/RecurrenceWidget/EndField
+msgid "Recurrence ends on"
+msgstr "Wiederkehrendes Vorkommen endet am"
+
+#: components/manage/Blocks/Table/Edit
+msgid "Reduce complexity"
+msgstr "Komplexität reduzieren"
+
+#: components/theme/Anontools/Anontools
+#: components/theme/Register/Register
+msgid "Register"
+msgstr "Registrieren"
+
+#: components/theme/Register/Register
+msgid "Registration form"
+msgstr "Registrierungsformular"
+
+#: components/theme/Search/Search
+msgid "Relevance"
+msgstr "relevanz"
+
+#: components/manage/Widgets/RecurrenceWidget/RecurrenceWidget
+msgid "Remove recurrence"
+msgstr "Wiederkehrende Einstellung entfernen"
+
+#: components/manage/Actions/Actions
+#: components/manage/Contents/Contents
+msgid "Rename"
+msgstr "Umbenennen"
+
+#: components/manage/Contents/ContentsRenameModal
+msgid "Rename items"
+msgstr "Artikel umbenennen"
+
+#: components/manage/Widgets/RecurrenceWidget/RecurrenceWidget
+msgid "Repeat"
+msgstr "Wiederholen"
+
+#: components/manage/Widgets/RecurrenceWidget/RecurrenceWidget
+msgid "Repeat every"
+msgstr "Wiederhole jeden"
+
+#: components/manage/Widgets/RecurrenceWidget/RecurrenceWidget
+msgid "Repeat on"
+msgstr "Wiederhole am"
+
+#: components/manage/Widgets/FileWidget
+msgid "Replace existing file"
+msgstr ""
+
+#: components/manage/Widgets/QuerystringWidget
+#: components/manage/Widgets/SchemaWidget
+#: components/manage/Widgets/SelectWidget
+#: components/manage/Widgets/WysiwygWidget
+msgid "Required"
+msgstr "Notwendig"
+
+#: components/manage/Form/ModalForm
+#: helpers/MessageLabels/MessageLabels
+msgid "Required input is missing."
+msgstr "Notwendige Eingabe fehlt."
+
+#: components/manage/Blocks/Listing/ListingData
+msgid "Results limit"
+msgstr "Anzahl der Ergebnisse einschränken"
+
+#: components/manage/Blocks/Listing/Edit
+msgid "Results preview"
+msgstr "Ergebnisvorschau"
+
+#: components/manage/Blocks/Listing/ListingData
+msgid "Reversed order"
+msgstr "Sortierreihenfolge umkehren"
+
+#: components/manage/History/History
+msgid "Revert to this revision"
+msgstr "Durch diese Version ersetzen"
+
+#: components/manage/Contents/Contents
+msgid "Review state"
+msgstr "Arbeitsablauf"
+
+#: components/manage/Widgets/SchemaWidget
+msgid "Richtext"
+msgstr "Richtext"
+
+#: components/manage/Blocks/Image/ImageSizeWidget
+#: components/manage/Blocks/Maps/Edit
+#: components/manage/Sidebar/AlignBlock
+msgid "Right"
+msgstr "Rechte"
+
+#: components/manage/Contents/ContentsPropertiesModal
+msgid "Rights"
+msgstr "Rechte"
+
+#: helpers/MessageLabels/MessageLabels
+msgid "Roles"
+msgstr "Rollen"
+
+#: components/manage/Contents/ContentsBreadcrumbs
+msgid "Root"
+msgstr ""
+
+#: components/manage/Add/Add
+#: components/manage/Controlpanels/ContentType
+#: components/manage/Controlpanels/ContentTypeLayout
+#: components/manage/Controlpanels/ContentTypeSchema
+#: components/manage/Controlpanels/Controlpanel
+#: components/manage/Edit/Edit
+#: components/manage/Form/ModalForm
+#: components/manage/Sharing/Sharing
+#: helpers/MessageLabels/MessageLabels
+msgid "Save"
+msgstr "Speichern"
+
+#: components/manage/Widgets/RecurrenceWidget/RecurrenceWidget
+msgid "Save recurrence"
+msgstr "Wiederkehrende Einstellung speichern"
+
+#: components/manage/Controlpanels/ContentTypesActions
+msgid "Schema"
+msgstr "Schema"
+
+#: components/manage/Controlpanels/ContentTypeSchema
+msgid "Schema updates"
+msgstr "Aktualisierungen Schema"
+
+#: components/theme/SearchWidget/SearchWidget
+msgid "Search"
+msgstr "Suche"
+
+#: components/theme/SearchWidget/SearchWidget
+msgid "Search Site"
+msgstr "Website durchsuchen"
+
+#: components/manage/Sidebar/ObjectBrowserBody
+msgid "Search content"
+msgstr "Inhalte suchen"
+
+#: components/manage/Sharing/Sharing
+msgid "Search for user or group"
+msgstr "Nach Benutzer oder Gruppe suchen"
+
+#: helpers/MessageLabels/MessageLabels
+msgid "Search group…"
+msgstr "Nach Gruppe suchen…"
+
+#: components/theme/Search/Search
+msgid "Search results"
+msgstr "Suchergebnisse"
+
+#: components/theme/Search/Search
+msgid "Search results for {term}"
+msgstr "Suchergebnisse für {term}"
+
+#: helpers/MessageLabels/MessageLabels
+msgid "Search users…"
+msgstr "Nach Nutzern suchen…"
+
+#: components/manage/Widgets/RecurrenceWidget/WeekdayOfTheMonthIndexField
+msgid "Second"
+msgstr "Zweiter"
+
+#: components/manage/Widgets/RecurrenceWidget/RecurrenceWidget
+msgid "Select a date to add to recurrence"
+msgstr "Wählen Sie ein Datum um ein wiederkehrendes Datum einzustellen"
+
+#: components/manage/Contents/Contents
+msgid "Select columns to show"
+msgstr "Anzuzeigende Spalten wählen"
+
+#: components/manage/Widgets/QuerystringWidget
+msgid "Select criteria"
+msgstr "Kriterium wählen"
+
+#: components/manage/Contents/ContentsWorkflowModal
+msgid "Select the transition to be used for modifying the items state."
+msgstr "Arbeitsablauf-Status für Seite wählen."
+
+#: components/manage/Widgets/RecurrenceWidget/Occurences
+msgid "Selected dates"
+msgstr "Ausgewählte Daten"
+
+#: components/manage/Sidebar/ObjectBrowserBody
+msgid "Selected items"
+msgstr "Ausgewählte Objekte"
+
+#: components/manage/Sidebar/ObjectBrowserBody
+msgid "Selected items - x of y"
+msgstr "Ausgewählte Objekte - x von y"
+
+#: components/manage/Widgets/SchemaWidget
+msgid "Selection"
+msgstr "Auswahl"
+
+#: components/manage/Contents/Contents
+#: components/manage/Widgets/ArrayWidget
+#: components/manage/Widgets/SelectWidget
+#: components/manage/Widgets/TokenWidget
+msgid "Select…"
+msgstr "Wähle…"
+
+#: components/theme/ContactForm/ContactForm
+msgid "Send"
+msgstr "Absenden"
+
+#: components/theme/PasswordReset/PasswordReset
+msgid "Set my password"
+msgstr "Passwort neu setzen"
+
+#: components/theme/PasswordReset/PasswordReset
+msgid "Set your password"
+msgstr "Setzen Sie Ihr Passwort"
+
+#: components/manage/Sidebar/Sidebar
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: components/manage/Sharing/Sharing
+#: components/manage/Toolbar/More
+msgid "Sharing"
+msgstr "Freigabe"
+
+#: components/manage/Sharing/Sharing
+msgid "Sharing for {title}"
+msgstr "Freigabe für"
+
+#: components/manage/Widgets/QuerystringWidget
+#: components/manage/Widgets/SchemaWidget
+#: components/manage/Widgets/SelectWidget
+#: components/manage/Widgets/WysiwygWidget
+msgid "Short Name"
+msgstr "Kurzname"
+
+#: components/manage/Contents/ContentsRenameModal
+msgid "Short name"
+msgstr "Kurzname"
+
+#: components/theme/Pagination/Pagination
+msgid "Show"
+msgstr "Zeige"
+
+#: helpers/MessageLabels/MessageLabels
+msgid "Show All"
+msgstr "Alle anzeigen"
+
+#: components/manage/Sidebar/Sidebar
+msgid "Shrink sidebar"
+msgstr "Sidebar verkleinern"
+
+#: components/manage/Toolbar/Toolbar
+msgid "Shrink toolbar"
+msgstr "Toolbar verkleinern"
+
+#: components/theme/Login/Login
+msgid "Sign in to start session"
+msgstr "Loggen Sie sich ein"
+
+#: components/theme/Logo/Logo
+msgid "Site"
+msgstr "Website"
+
+#: components/theme/NotFound/NotFound
+#: components/theme/Unauthorized/Unauthorized
+msgid "Site Administration"
+msgstr "Website-Administrator"
+
+#: components/theme/Footer/Footer
+msgid "Site Map"
+msgstr "Übersicht"
+
+#: components/manage/Controlpanels/Controlpanels
+#: components/manage/Toolbar/PersonalTools
+msgid "Site Setup"
+msgstr "Seiteneinstellungen"
+
+#: components/theme/Sitemap/Sitemap
+msgid "Sitemap"
+msgstr "Sitemap"
+
+#: components/manage/Blocks/Image/ImageSidebar
+msgid "Size"
+msgstr "Größe"
+
+#: components/theme/View/ImageView
+msgid "Size: {size}"
+msgstr "Grösse: {size}"
+
+#: error
+msgid "Sorry, something went wrong with your request"
+msgstr "Entschuldigung, ein Fehler ist beim Ausführen Ihrer Anfrage aufgetreten "
+
+#: components/theme/Search/Search
+msgid "Sort By:"
+msgstr "Sortieren nach:"
+
+#: components/manage/Blocks/Listing/ListingData
+msgid "Sort on"
+msgstr "Sortieren nach"
+
+#: components/manage/Blocks/HTML/Edit
+#: components/manage/Blocks/Listing/ListingData
+msgid "Source"
+msgstr "Quelle"
+
+#: components/manage/Blocks/Video/Edit
+msgid "Specify a youtube video or playlist url"
+msgstr "Geben Sie ein YouTube-Video oder eine YouTube-Playlist URL ein"
+
+#: components/manage/Diff/Diff
+msgid "Split"
+msgstr "Aufsplitten"
+
+#: components/manage/Contents/Contents
+msgid "Start Date"
+msgstr "Anfangsdatum"
+
+#: components/manage/Widgets/RecurrenceWidget/Occurences
+msgid "Start of the recurrence"
+msgstr "Anfangsdatum des wiederkehrenden Termins"
+
+#: components/theme/PasswordReset/RequestPasswordReset
+msgid "Start password reset"
+msgstr "E-Mail anfordern"
+
+#: components/manage/Contents/Contents
+#: components/manage/Workflow/Workflow
+#: components/theme/View/TabularView
+msgid "State"
+msgstr "Status"
+
+#: components/manage/Widgets/SchemaWidget
+msgid "String"
+msgstr "Text"
+
+#: components/manage/Blocks/Table/Edit
+msgid "Stripe alternate rows with color"
+msgstr "Zeilen abwechselnd einfärben"
+
+#: components/theme/ContactForm/ContactForm
+msgid "Subject"
+msgstr "Betreff"
+
+#: components/manage/Actions/Actions
+#: components/manage/Contents/Contents
+#: components/manage/Controlpanels/ContentTypes
+#: components/manage/Controlpanels/ContentTypeSchema
+#: components/manage/Multilingual/ManageTranslations
+#: components/manage/Preferences/ChangePassword
+#: components/manage/Preferences/PersonalInformation
+#: components/manage/Preferences/PersonalPreferences
+#: components/theme/ContactForm/ContactForm
+#: helpers/MessageLabels/MessageLabels
+msgid "Success"
+msgstr "Erfolgreich"
+
+#: components/manage/Blocks/Table/Edit
+msgid "Table"
+msgstr "Tabelle"
+
+#: components/manage/Blocks/Table/Edit
+msgid "Table color inverted"
+msgstr "Tabellenfarbe invertieren"
+
+#: components/manage/Blocks/ToC/View
+msgid "Table of Contents"
+msgstr "Inhaltsverzeichnis"
+
+#: components/manage/Contents/Contents
+#: components/manage/Contents/ContentsTagsModal
+msgid "Tags"
+msgstr "Tags"
+
+#: components/manage/Contents/ContentsTagsModal
+msgid "Tags to add"
+msgstr "Hinzuzufügende Tags"
+
+#: components/manage/Contents/ContentsTagsModal
+msgid "Tags to remove"
+msgstr "Zu entfernende Tags"
+
+#: components/manage/Controlpanels/DatabaseInformation
+msgid "Target memory size per cache in bytes"
+msgstr "Ziel-Speichergröße pro Cache in Bytes"
+
+#: components/manage/Controlpanels/DatabaseInformation
+msgid "Target number of objects in memory per cache"
+msgstr "Ziel-Anzahl von Objekten im Speicher pro Cache"
+
+#: components/manage/Blocks/Listing/TemplateWidget
+msgid "Template"
+msgstr "Template"
+
+#: components/manage/Widgets/SchemaWidget
+msgid "Text"
+msgstr "Text"
+
+#: components/theme/ConnectionRefused/ConnectionRefused
+#: components/theme/CorsError/CorsError
+#: components/theme/NotFound/NotFound
+#: components/theme/Unauthorized/Unauthorized
+msgid "Thank you."
+msgstr "Vielen Dank."
+
+#: components/manage/Controlpanels/DatabaseInformation
+msgid "The Database Manager allow you to view database status information"
+msgstr "Der Datenbank-Manager zeigt Ihnen Status-Informationen zu der Datenbank"
+
+#: components/manage/Preferences/PersonalInformation
+msgid "The URL for your external home page, if you have one."
+msgstr "Die URL Ihrer externen Homepage, sollten Sie eine besitzen."
+
+#: components/theme/ConnectionRefused/ConnectionRefused
+msgid "The backend is not responding, please check if you have started Plone, check your project's configuration object apiPath (or if you are using the internal proxy, devProxyToApiPath) or the RAZZLE_API_PATH Volto's environment variable."
+msgstr "Das Backend beantwortet die Anfrage nicht, prüfen Sie bitte ob Sie Plone gestartet haben. Prüfen Sie den apiPath Parameter Ihrer Projekt-Konfiguration oder die RAZZLE_API_PATH Umgebungsvariable."
+
+#: components/theme/CorsError/CorsError
+msgid "The backend is responding, but the CORS headers are not configured properly and the browser has denied the access to the backend resources."
+msgstr "Das Backend antwortet, allerdings sind ihre CORS HTTP Header nicht korrekt konfiguriert."
+
+#: components/theme/CorsError/CorsError
+msgid "The backend server of your website is not anwering, we apologize for the inconvenience. Please try to re-load the page and try again. If the problem persists please contact the site administrators."
+msgstr "Der Server antwortet nicht, wir entschuldigen uns für die Unanehmlichkeiten. Bitte versuchen Sie die Seite neu zu laden. Falls das Problem weiterhin besteht kontaktieren Sie bitte den Seitenbetreiber."
+
+#: components/theme/Register/Register
+msgid "The registration process has been successful. Please check your e-mail inbox for information on how activate your account."
+msgstr "Bitte prüfen Sie Ihr E-Mail Postfach. Sie sollten eine E-Mail erhalten haben mit Anweisungen, wie Sie Ihren Zugang aktivieren können."
+
+#: components/manage/Preferences/PersonalInformation
+msgid "The user portrait/avatar"
+msgstr "Benutzer Portrait/Avatar"
+
+#: components/theme/Footer/Footer
+msgid "The {plonecms} is {copyright} 2000-{current_year} by the {plonefoundation} and friends."
+msgstr "{plonecms} {copyright} 2000-{current_year} {plonefoundation} und Freunde."
+
+#: components/theme/CorsError/CorsError
+msgid "There is a configuration problem on the backend"
+msgstr "Konfigurationsproblem im Backend"
+
+#: components/manage/Form/InlineForm
+msgid "There were some errors"
+msgstr "Es sind Fehler"
+
+#: components/manage/Form/ModalForm
+#: helpers/MessageLabels/MessageLabels
+msgid "There were some errors."
+msgstr "Es sind Fehler aufgetreten."
+
+#: components/manage/Widgets/RecurrenceWidget/WeekdayOfTheMonthIndexField
+msgid "Third"
+msgstr "Dritter"
+
+#: components/manage/Contents/ContentsRenameModal
+msgid "This name will be displayed in the URL."
+msgstr "Dieser Name wird in der Adressleiste des Browsers angezeigt."
+
+#: components/theme/NotFound/NotFound
+msgid "This page does not seem to exist…"
+msgstr "Die Seite existiert leider nicht…"
+
+#: components/manage/Widgets/DatetimeWidget
+msgid "Time"
+msgstr "Zeit"
+
+#: components/manage/Blocks/HeroImageLeft/Edit
+#: components/manage/Contents/Contents
+#: components/manage/Contents/ContentsRenameModal
+#: components/manage/Controlpanels/ContentTypes
+#: components/manage/Widgets/QuerystringWidget
+#: components/manage/Widgets/SchemaWidget
+#: components/manage/Widgets/SelectWidget
+#: components/manage/Widgets/WysiwygWidget
+#: components/theme/View/TabularView
+#: helpers/MessageLabels/MessageLabels
+msgid "Title"
+msgstr "Titel"
+
+#: components/manage/Controlpanels/DatabaseInformation
+msgid "Total active and non-active objects"
+msgstr "Anzahl aktive und nicht-aktive Objekte"
+
+#: components/manage/Contents/Contents
+msgid "Total comments"
+msgstr "Anzahl Komentare"
+
+#: components/manage/Controlpanels/DatabaseInformation
+msgid "Total number of objects in each cache"
+msgstr "Anzahl aller Objekte im Cache"
+
+#: components/manage/Controlpanels/DatabaseInformation
+msgid "Total number of objects in memory from all caches"
+msgstr "Anzahl aller Objekte im Speicher von allen Caches"
+
+#: components/manage/Controlpanels/DatabaseInformation
+msgid "Total number of objects in the database"
+msgstr "Anzahl aller Objekte in der Datenbank"
+
+#: components/manage/Toolbar/Types
+msgid "Translate to {lang}"
+msgstr "Auf {lang} übersetzen"
+
+#: components/manage/Multilingual/ManageTranslations
+msgid "Translation linked"
+msgstr "Übersetzung verbunden"
+
+#: components/manage/Multilingual/ManageTranslations
+msgid "Translation linking removed"
+msgstr "Verbindung zu Übersetzung gelöst"
+
+#: components/manage/Controlpanels/ContentTypes
+#: components/manage/Widgets/SchemaWidget
+#: components/theme/View/TabularView
+msgid "Type"
+msgstr "Typ"
+
+#: components/manage/Blocks/Video/Edit
+msgid "Type a Video (YouTube, Vimeo or mp4) URL"
+msgstr "Geben Sie eine Video-URL (YouTube, Video oder MP4) ein"
+
+#: components/manage/Blocks/Text/Edit
+msgid "Type text…"
+msgstr "Text eingeben…"
+
+#: components/manage/Blocks/Title/Edit
+msgid "Type the title…"
+msgstr "Titel eingeben…"
+
+#: components/manage/Contents/Contents
+msgid "UID"
+msgstr "UID"
+
+#: components/theme/Unauthorized/Unauthorized
+msgid "Unauthorized"
+msgstr "Nicht autorisiert"
+
+#: components/manage/Diff/Diff
+msgid "Unified"
+msgstr "Vereinigt"
+
+#: components/manage/Controlpanels/AddonsControlpanel
+msgid "Uninstall"
+msgstr "Deinstallieren"
+
+#: components/manage/Blocks/Block/Edit
+#: components/theme/View/DefaultView
+#: components/theme/View/RenderBlocks
+msgid "Unknown Block"
+msgstr "Unbekannter Block"
+
+#: components/manage/Controlpanels/AddonsControlpanel
+msgid "Update"
+msgstr "Update"
+
+#: components/manage/Controlpanels/AddonsControlpanel
+msgid "Update installed addons"
+msgstr "Installierte Erweiterungen aktualisieren"
+
+#: components/manage/Controlpanels/AddonsControlpanel
+msgid "Update installed addons:"
+msgstr "Installierte Erweiterungen:"
+
+#: components/manage/Controlpanels/AddonsControlpanel
+msgid "Updates available"
+msgstr "Verfügbare Erweiterungen"
+
+#: components/manage/Contents/Contents
+msgid "Upload"
+msgstr "Hochladen"
+
+#: components/manage/Blocks/LeadImage/Edit
+msgid "Upload a lead image in the 'Lead Image' content field."
+msgstr "Laden Sie ein Leadbild im 'Leadbild' Feld hoch."
+
+#: components/manage/Blocks/HeroImageLeft/Edit
+msgid "Upload a new image"
+msgstr "Neues Bild hochladen"
+
+#: components/manage/Contents/ContentsUploadModal
+msgid "Upload files"
+msgstr "Datei hochladen"
+
+#: components/manage/Contents/ContentsUploadModal
+msgid "Uploading files"
+msgstr "Dateien hochladen"
+
+#: components/manage/Widgets/QuerystringWidget
+#: components/manage/Widgets/SchemaWidget
+#: components/manage/Widgets/SelectWidget
+#: components/manage/Widgets/WysiwygWidget
+msgid "Used for programmatic access to the fieldset."
+msgstr "Wir für den programmierten Zugriff auf das Fieldset verwendet."
+
+#: components/manage/Sharing/Sharing
+msgid "User"
+msgstr "Benutzer"
+
+#: helpers/MessageLabels/MessageLabels
+msgid "User created"
+msgstr "Benutzer erstellt"
+
+#: components/manage/Controlpanels/UsersControlpanel
+msgid "User name"
+msgstr "Benutzername"
+
+#: helpers/MessageLabels/MessageLabels
+msgid "Username"
+msgstr "Benutzername"
+
+#: components/manage/Controlpanels/UsersControlpanel
+msgid "Users"
+msgstr "Nutzer"
+
+#: components/manage/Controlpanels/Controlpanels
+#: helpers/MessageLabels/MessageLabels
+msgid "Users and Groups"
+msgstr "Nutzer und Gruppen"
+
+#: components/manage/Controlpanels/UsersControlpanel
+msgid "Users and groups settings"
+msgstr "Nutzer- und Gruppeneinstellungen"
+
+#: components/manage/Controlpanels/Controlpanels
+msgid "Version Overview"
+msgstr "Versionsübersicht"
+
+#: components/manage/Blocks/Video/VideoSidebar
+msgid "Video"
+msgstr "Video"
+
+#: components/manage/Blocks/Video/VideoSidebar
+msgid "Video URL"
+msgstr "Video URL"
+
+#: components/manage/Contents/ContentsItem
+msgid "View"
+msgstr "Anzeigen"
+
+#: components/manage/History/History
+msgid "View changes"
+msgstr "Änderungen anzeigen"
+
+#: components/manage/History/History
+msgid "View this revision"
+msgstr "Diese revision ansehen"
+
+#: components/manage/Display/Display
+msgid "Viewmode"
+msgstr "Ansicht"
+
+#: components/manage/Controlpanels/VersionOverview
+msgid "Warning Regarding debug mode"
+msgstr "Debug-Modus Warnung"
+
+#: components/theme/ConnectionRefused/ConnectionRefused
+msgid "We apologize for the inconvenience, but the backend of the site you are accessing is not available right now. Please, try again later."
+msgstr "Entschuldigen Sie die Unanehmlichkeiten aber das Backend der Seite antwortet zur Zeit nicht."
+
+#: components/theme/NotFound/NotFound
+msgid "We apologize for the inconvenience, but the page you were trying to access is not at this address. You can use the links below to help you find what you are looking for."
+msgstr "Entschuldigung, aber die Webseite die Sie versucht haben zu erreichen ist hier nicht verfügbar. Bitte benutzen Sie die aufgeführten Verweise um zu finden was Sie gesucht haben."
+
+#: components/theme/Forbidden/Forbidden
+msgid "We apologize for the inconvenience, but you don't have permissions on this resource."
+msgstr "Entschuldigen Sie die Unanehmlichkeiten, aber Sie besitzen nicht die erforderlichen Rechte um diese Seite anzuzeigen."
+
+#: components/manage/Preferences/PersonalInformation
+msgid "We will use this address if you need to recover your password"
+msgstr "Wir verwenden diese E-Mail Adresse wenn wir Ihr Passwort wiederherstellen müssen"
+
+#: components/manage/Widgets/RecurrenceWidget/WeekdayOfTheMonthIndexField
+msgid "Weeek day of month"
+msgstr "Wochentag im Monat"
+
+#: components/manage/Widgets/RecurrenceWidget/RecurrenceWidget
+msgid "Weekday"
+msgstr "Wochentag"
+
+#: components/manage/Widgets/RecurrenceWidget/RecurrenceWidget
+msgid "Weekly"
+msgstr "wöchentlich"
+
+#: components/manage/History/History
+msgid "What"
+msgstr "Was"
+
+#: components/manage/History/History
+msgid "When"
+msgstr "Wann"
+
+#: components/manage/Contents/ContentsPropertiesModal
+msgid "When this date is reached, the content will nolonger be visible in listings and searches."
+msgstr "Wenn dieses Datum erreicht wird, wird der Inhalt nicht länger in Auflistungen und in der Suche auftauchen."
+
+#: components/manage/History/History
+msgid "Who"
+msgstr "Wer"
+
+#: components/manage/Workflow/Workflow
+msgid "Workflow updated."
+msgstr "Arbeitsablauf aktualisiert."
+
+#: components/manage/Widgets/RecurrenceWidget/RecurrenceWidget
+msgid "Yearly"
+msgstr "jährlich"
+
+#: components/manage/Contents/ContentsItem
+#: components/manage/Controlpanels/ContentTypes
+msgid "Yes"
+msgstr "Ja"
+
+#: components/theme/Unauthorized/Unauthorized
+msgid "You are trying to access a protected resource, please {login} first."
+msgstr "Sie versuchen eine geschützte Seite aufzurufen, bitte zuerst {login}."
+
+#: components/theme/OutdatedBrowser/OutdatedBrowser
+msgid "You are using an outdated browser"
+msgstr "Sie verwenden einen veralteten Browser"
+
+#: components/theme/Comments/Comments
+msgid "You can add a comment by filling out the form below. Plain text formatting."
+msgstr "Sie können einen Kommentar abgeben wenn Sie das untenstehende Formular ausfüllen. Plain-Text-Formatierung."
+
+#: components/manage/Sharing/Sharing
+msgid "You can control who can view and edit your item using the list below."
+msgstr "Sie können mit der folgenden Liste bestimmen, wer Ihren Artikel sehen und bearbeiten kann."
+
+#: components/manage/Diff/Diff
+msgid "You can view the difference of the revisions below."
+msgstr "Sie können die Unterschiede der verschiedenen Versionen unten sehen."
+
+#: components/manage/History/History
+msgid "You can view the history of your item below."
+msgstr "Sie können die Historie des Inhalts unten einsehen."
+
+#: components/manage/Contents/Contents
+msgid "You can't paste this content here"
+msgstr "Sie können diese(s) Objekt(e) hier nicht einfügen"
+
+#: components/theme/PasswordReset/RequestPasswordReset
+msgid "Your email is required for reset your password."
+msgstr "Ihre E-Mail Adresse ist notwendig um Ihr Passwort zurücksetzen zu können."
+
+#: components/manage/Preferences/PersonalInformation
+msgid "Your location - either city and country - or in a company setting, where your office is located."
+msgstr "Ihr Standort - entweder eine Stadt und ein Land - oder im Rahmen einer Firma, wo Ihr Büro ist."
+
+#: components/theme/PasswordReset/PasswordReset
+msgid "Your password has been set successfully. You may now {link} with your new password."
+msgstr "Ihr Passwort wurde erfolgreich vergeben. Sie können sich jetzt mit Ihrem neuen Passwort {link}."
+
+#: components/manage/Preferences/PersonalPreferences
+msgid "Your preferred language"
+msgstr "Ihre bevorzugte Sprache"
+
+#: components/theme/PasswordReset/RequestPasswordReset
+msgid "box_forgot_password_option"
+msgstr "Passwort vergessen?"
+
+#: config/Blocks
+msgid "common"
+msgstr "Allgemein"
+
+#: components/manage/Blocks/Block/Edit
+#: components/manage/Blocks/Block/EditBlockWrapper
+msgid "delete"
+msgstr "Löschen"
+
+#: components/theme/OutdatedBrowser/OutdatedBrowser
+msgid "deprecated_browser_notice_message"
+msgstr "Sie verwenden einen veralteten Browser. Wir empfehlen den Einsatz eines modernen Browsers wie Firefox, Chrome, Safari oder Windows Edge Chromium."
+
+#: config/Blocks
+msgid "description"
+msgstr "Beschreibung"
+
+#: components/theme/PasswordReset/RequestPasswordReset
+msgid "description_lost_password"
+msgstr "Aus Sicherheitsgründen speichern wir Ihr Passwort verschlüsselt und können es Ihnen daher nicht per E-Mail schicken. Um ein neues Passwort zu erhalten, tragen Sie unten bitte Ihren Benutzernamen ein. Wir werden Ihnen daraufhin eine E-Mail schicken, in der das weitere Vorgehen beschrieben ist."
+
+#: components/theme/PasswordReset/RequestPasswordReset
+msgid "description_sent_password"
+msgstr "Der Link, um das Passwort neu zu setzen, wurde Ihnen zugesendet. Die E-Mail sollte in Kürze in Ihrem Postfach ankommen. Wenn Sie die Nachricht erhalten haben, klicken Sie auf den Link in der E-Mail, um zu der Webseite zu gelangen, wo Sie das Passwort neu setzen können."
+
+#: components/manage/Contents/ContentsItem
+msgid "draft"
+msgstr "Entwurf"
+
+#: helpers/MessageLabels/MessageLabels
+msgid "email"
+msgstr "E-Mail"
+
+#: components/theme/View/EventView
+msgid "event_alldates"
+msgstr "Alle Termine"
+
+#: components/theme/View/EventView
+msgid "event_attendees"
+msgstr "Teilnehmer"
+
+#: components/theme/View/EventView
+msgid "event_contactname"
+msgstr "Kontaktname"
+
+#: components/theme/View/EventView
+msgid "event_contactphone"
+msgstr "Kontakttelefon"
+
+#: components/theme/View/EventView
+msgid "event_website"
+msgstr "Webseite"
+
+#: components/theme/View/EventView
+msgid "event_what"
+msgstr "Was"
+
+#: components/theme/View/EventView
+msgid "event_when"
+msgstr "Datum"
+
+#: components/theme/View/EventView
+msgid "event_where"
+msgstr "Ort"
+
+#: components/theme/PasswordReset/RequestPasswordReset
+msgid "heading_sent_password"
+msgstr "Bestätigung für das Zurücksetzen des Passwortes wurde gesendet!"
+
+#: config/Blocks
+msgid "hero"
+msgstr "Hero"
+
+#: config/Blocks
+msgid "html"
+msgstr "HTML"
+
+#: config/Blocks
+msgid "image"
+msgstr "Bild"
+
+#: helpers/MessageLabels/MessageLabels
+msgid "integer"
+msgstr "Ganzzahl"
+
+#: components/manage/Contents/ContentsItem
+msgid "intranet"
+msgstr "Intranet"
+
+#: components/theme/PasswordReset/RequestPasswordReset
+msgid "label_my_email_address_is"
+msgstr "Meine E-Mail-Adresse lautet"
+
+#: config/Blocks
+msgid "leadimage"
+msgstr "leadimage"
+
+#: config/Blocks
+msgid "listing"
+msgstr "listing"
+
+#: components/manage/Contents/Contents
+msgid "loading"
+msgstr "laden"
+
+#: components/theme/Unauthorized/Unauthorized
+msgid "log in"
+msgstr "Einloggen"
+
+#: config/Blocks
+msgid "maps"
+msgstr "Karten"
+
+#: components/manage/Widgets/SchemaWidget
+msgid "maxLength"
+msgstr "Maximale Länge"
+
+#: components/manage/Widgets/SchemaWidget
+msgid "maximum"
+msgstr "Maximum"
+
+#: config/Blocks
+msgid "media"
+msgstr "Medien"
+
+#: components/manage/Widgets/SchemaWidget
+msgid "minLength"
+msgstr "Minimale Länge"
+
+#: components/manage/Widgets/SchemaWidget
+msgid "minimum"
+msgstr "Minimum"
+
+#: config/Blocks
+msgid "mostUsed"
+msgstr "Häufig genutzt"
+
+#: components/manage/Contents/ContentsItem
+msgid "no workflow state"
+msgstr "Kein Status gesetzt"
+
+#: helpers/MessageLabels/MessageLabels
+msgid "number"
+msgstr "Zahl"
+
+#: components/manage/Widgets/RecurrenceWidget/ByMonthDayField
+#: components/manage/Widgets/RecurrenceWidget/ByYearField
+msgid "of the month"
+msgstr "im Monat"
+
+#: error
+msgid "or try a different page."
+msgstr "versuchen Sie eine andere Seite."
+
+#: components/manage/Widgets/RecurrenceWidget/Occurences
+msgid "others"
+msgstr "andere"
+
+#: components/manage/Contents/ContentsItem
+msgid "private"
+msgstr "Privat"
+
+#: components/manage/Contents/ContentsItem
+msgid "published"
+msgstr "Veröffentlicht"
+
+#: components/manage/Blocks/Listing/QuerystringWidget
+msgid "querystring-widget-select"
+msgstr "Select Auswahlfeld"
+
+#: components/theme/Login/Login
+msgid "registration form"
+msgstr "Registrierungsformular"
+
+#: components/theme/Search/Search
+msgid "results found"
+msgstr "Ergebnisse gefunden"
+
+#: error
+msgid "return to the site root"
+msgstr "Zur Startseite zurückkehren"
+
+#: components/manage/Widgets/RecurrenceWidget/Utils
+msgid "rrule_and"
+msgstr "Regel UND"
+
+#: components/manage/Widgets/RecurrenceWidget/Utils
+msgid "rrule_approximate"
+msgstr "REGEL Annäherung"
+
+#: components/manage/Widgets/RecurrenceWidget/Utils
+msgid "rrule_at"
+msgstr "Regel AT"
+
+#: components/manage/Widgets/RecurrenceWidget/Utils
+msgid "rrule_dateFormat"
+msgstr "Regel Datumsformat"
+
+#: components/manage/Widgets/RecurrenceWidget/Utils
+msgid "rrule_day"
+msgstr "Regel Tag"
+
+#: components/manage/Widgets/RecurrenceWidget/Utils
+msgid "rrule_days"
+msgstr "Regel Tage"
+
+#: components/manage/Widgets/RecurrenceWidget/Utils
+msgid "rrule_every"
+msgstr "Regel Jeden"
+
+#: components/manage/Widgets/RecurrenceWidget/Utils
+msgid "rrule_for"
+msgstr "Regel für"
+
+#: components/manage/Widgets/RecurrenceWidget/Utils
+msgid "rrule_hour"
+msgstr "Regel Stunde"
+
+#: components/manage/Widgets/RecurrenceWidget/Utils
+msgid "rrule_hours"
+msgstr "Regel Stunden"
+
+#: components/manage/Widgets/RecurrenceWidget/Utils
+msgid "rrule_in"
+msgstr "Regel in"
+
+#: components/manage/Widgets/RecurrenceWidget/Utils
+msgid "rrule_last"
+msgstr "Regel letztes"
+
+#: components/manage/Widgets/RecurrenceWidget/Utils
+msgid "rrule_minutes"
+msgstr "Regel Minuten"
+
+#: components/manage/Widgets/RecurrenceWidget/Utils
+msgid "rrule_month"
+msgstr "Regel Monat"
+
+#: components/manage/Widgets/RecurrenceWidget/Utils
+msgid "rrule_months"
+msgstr "Regel Monate"
+
+#: components/manage/Widgets/RecurrenceWidget/Utils
+msgid "rrule_nd"
+msgstr "Regel ND"
+
+#: components/manage/Widgets/RecurrenceWidget/Utils
+msgid "rrule_on"
+msgstr "Regel on"
+
+#: components/manage/Widgets/RecurrenceWidget/Utils
+msgid "rrule_on the"
+msgstr "Regel on the"
+
+#: components/manage/Widgets/RecurrenceWidget/Utils
+msgid "rrule_or"
+msgstr "Regel oder"
+
+#: components/manage/Widgets/RecurrenceWidget/Utils
+msgid "rrule_rd"
+msgstr "Regel rd"
+
+#: components/manage/Widgets/RecurrenceWidget/Utils
+msgid "rrule_st"
+msgstr "Regel st"
+
+#: components/manage/Widgets/RecurrenceWidget/Utils
+msgid "rrule_th"
+msgstr "Regel th"
+
+#: components/manage/Widgets/RecurrenceWidget/Utils
+msgid "rrule_the"
+msgstr "Regel the"
+
+#: components/manage/Widgets/RecurrenceWidget/Utils
+msgid "rrule_time"
+msgstr "Regel Zeit"
+
+#: components/manage/Widgets/RecurrenceWidget/Utils
+msgid "rrule_times"
+msgstr "Regel Zeiten"
+
+#: components/manage/Widgets/RecurrenceWidget/Utils
+msgid "rrule_until"
+msgstr "Regel bis"
+
+#: components/manage/Widgets/RecurrenceWidget/Utils
+msgid "rrule_week"
+msgstr "Regel Woche"
+
+#: components/manage/Widgets/RecurrenceWidget/Utils
+msgid "rrule_weekday"
+msgstr "Regel Wochentag"
+
+#: components/manage/Widgets/RecurrenceWidget/Utils
+msgid "rrule_weekdays"
+msgstr "Regel Wochentage"
+
+#: components/manage/Widgets/RecurrenceWidget/Utils
+msgid "rrule_weeks"
+msgstr "Regel Wochen"
+
+#: components/manage/Widgets/RecurrenceWidget/Utils
+msgid "rrule_year"
+msgstr "Regel Jahr"
+
+#: components/manage/Widgets/RecurrenceWidget/Utils
+msgid "rrule_years"
+msgstr "Regel Jahre"
+
+#: components/manage/Contents/Contents
+msgid "sort"
+msgstr "sortieren"
+
+#: config/Blocks
+msgid "table"
+msgstr "Tabelle"
+
+#: config/Blocks
+msgid "text"
+msgstr "Text"
+
+#: config/Blocks
+msgid "title"
+msgstr "Titel"
+
+#: config/Blocks
+msgid "toc"
+msgstr "Inhaltsverzeichnis"
+
+#: helpers/MessageLabels/MessageLabels
+msgid "url"
+msgstr "URL"
+
+#: components/manage/Toolbar/PersonalTools
+msgid "user avatar"
+msgstr "Nutzer Avatar"
+
+#: config/Blocks
+msgid "video"
+msgstr "Video"
+
+#: components/theme/View/EventView
+msgid "visit_external_website"
+msgstr "Externe Webseite besuchen"
+
+#: components/theme/Login/Login
+msgid "we can send you a new one"
+msgstr "Wir schicken Ihnen gerne ein neues Passwort zu."
+
+#: components/manage/Contents/ContentsUploadModal
+msgid "{count, plural, one {Upload {count} file} other {Upload {count} files}}"
+msgstr "Lade {count, plural, one {# Datei} other {# Dateien}} hoch"
+
+#: components/manage/Contents/Contents
+msgid "{count} selected"
+msgstr "{count} ausgewählt"
+
+#: components/manage/Controlpanels/ContentType
+msgid "{id} Content Type"
+msgstr "{id} Inhaltstyp"
+
+#: components/manage/Controlpanels/ContentTypeSchema
+msgid "{id} Schema"
+msgstr "{id} Schema"
+
+#: components/manage/Actions/Actions
+msgid "{title} copied."
+msgstr "{title} kopiert."
+
+#: components/manage/Actions/Actions
+msgid "{title} cut."
+msgstr "{title} ausgeschnitten."
+
+#: components/manage/Actions/Actions
+msgid "{title} has been deleted."
+msgstr "{title} wurde gelöscht."
+
+#: components/theme/Comments/Comments
+msgid "{user} says:"
+msgstr "{user} sagt:"
